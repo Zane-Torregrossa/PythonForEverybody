@@ -32,16 +32,16 @@ Perspective Employers - artifact will be added to my student portfolio which cou
 
 ### Timelines <br /> 
 *(for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)*
-**Week:** 
-**Chapter One** - Why we Program? *(3 hours)*
-**Chapter Two** - Variables and Expressions *(3 hours)* 
-**Chapter Three** - Conditional Code *(3 hours)* 
-**Chapter Five** - Loops and Iteration *(3 hours)* 
-**Chapter Four** - Functions *(2 hours)* 
-**Chapter Seven** - Files *(3 hours)* 
-**Chapter Eight** - Lists *(3 hours)* 
-**Chapter Six** - Strings *(3 hours)* 
-**Chapter Nine** - Dictionaries *(3 hours)* 
-**Chapter Ten** - Tuples *(2 hours)* 
-**Graduation** - Work on Independent Program *(2 hours)* 
-**Completion** - Finish Independent Program *(2 hours)* 
+**Week:**  <br />
+**Chapter One** - Why we Program? *(3 hours)* <br />
+**Chapter Two** - Variables and Expressions *(3 hours)* <br />
+**Chapter Three** - Conditional Code *(3 hours)* <br />
+**Chapter Five** - Loops and Iteration *(3 hours)* <br />
+**Chapter Four** - Functions *(2 hours)* <br />
+**Chapter Seven** - Files *(3 hours)* <br />
+**Chapter Eight** - Lists *(3 hours)* <br />
+**Chapter Six** - Strings *(3 hours)* <br />
+**Chapter Nine** - Dictionaries *(3 hours)* <br />
+**Chapter Ten** - Tuples *(2 hours)* <br />
+**Graduation** - Work on Independent Program *(2 hours)* <br />
+**Completion** - Finish Independent Program *(2 hours)* <br />
