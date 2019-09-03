@@ -31,7 +31,7 @@ Parents - investing in my education and future success, want to make them proud 
 Perspective Employers - artifact will be added to my student portfolio which could help with getting a job <br />
 
 ### Timelines <br /> 
-*(for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)*
+*(for software, a breakdown of high level goals like from the Product Backlog into time-bound smaller, more detailed tasks, like in Sprint Backlogs)* <br />
 **Week:**  <br />
 **Chapter One** - Why we Program? *(3 hours)* <br />
 **Chapter Two** - Variables and Expressions *(3 hours)* <br />
